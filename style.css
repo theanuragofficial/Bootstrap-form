@@ -1,0 +1,14 @@
+.max400 {
+  max-width: 400px;
+}
+.max600 {
+  max-width: 600px;
+}
+
+.min300 {
+  min-width: 300px;
+}
+
+.bg-pink {
+  background-color: pink;
+}
